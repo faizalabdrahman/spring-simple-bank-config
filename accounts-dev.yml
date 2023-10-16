@@ -1,5 +1,0 @@
-accounts:
-  message: "Welcome to Simple Bank account related development APIs"
-  contactDetails:
-    name: "John Doe - Developer"
-    email: "johndoe@simplebank.com"
