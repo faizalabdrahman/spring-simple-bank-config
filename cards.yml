@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to SimpleBank cards related local APIs"
+  message: "Welcome to SimpleBank cards related local APIs 1"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe@simplebank.com"
