@@ -1,8 +1,8 @@
 build:
   version: "2.0"
 
-accounts:
-  message: "Welcome to SimpleBank accounts related local APIs"
+cards:
+  message: "Welcome to SimpleBank cards related local APIs"
   contactDetails:
     name: "Baba Yaga - Developer"
     email: "babayaga@simplebank.com"

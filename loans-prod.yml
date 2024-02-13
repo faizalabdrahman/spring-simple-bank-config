@@ -1,8 +1,8 @@
 build:
   version: "1.0"
 
-accounts:
-  message: "Welcome to SimpleBank accounts related local APIs"
+loans:
+  message: "Welcome to SimpleBank loans related local APIs"
   contactDetails:
     name: "John Smith - Developer"
     email: "johnsmith@simplebank.com"
