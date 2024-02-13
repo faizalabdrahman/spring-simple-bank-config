@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SimpleBank accounts related local APIs webhook"
+  message: "Welcome to SimpleBank accounts related local APIs test"
   contactDetails:
     name: "John Doe - Developer"
     email: "johndoe@simplebank.com"
