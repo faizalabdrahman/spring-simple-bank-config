@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to SimpleBank accounts related local APIs"
   contactDetails:
-    name: "John Doe - Developer"
+    name: "John Doe - Developer 1"
     email: "johndoe@simplebank.com"
   onCallSupport:
     - (+65) 1234-5678
